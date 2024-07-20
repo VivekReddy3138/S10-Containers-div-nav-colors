@@ -1,0 +1,51 @@
+.playerDiv{
+    background-color: aquamarine;
+    width: 300px;
+    height: 600px;
+    display: inline-block;
+    border: 20px groove rgb(33, 228, 166);
+    margin: 50px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 40px;
+}
+
+.playerPic{
+     width: 300px; 
+    
+}
+
+.playerDiv h2{
+         text-align: center;
+}
+
+.playerDiv p{
+       text-align: justify;
+       color:black;
+}
+
+nav{
+    background-color: blue;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+nav a {
+     font-size: 5rem;
+     color: azure;
+}
+
+#dhoni{
+    background-color:rgb(255, 255, 0)
+}
+
+#buttler{
+     background-color:rgb(208, 7, 111)
+}
+
+#markram{
+    background-color:tomato;
+}
